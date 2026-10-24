@@ -135,7 +135,7 @@ function App() {
         </div>
 
         <footer>
-          Made with React ❤️
+          Made with React 
         </footer>
       </div>
     </div>
